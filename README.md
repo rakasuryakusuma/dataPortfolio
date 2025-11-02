@@ -29,7 +29,7 @@ Each project is organized in a separate folder that contains:
 - Dataset (or link to data source)
 - Documentation and analysis report
 
-**My project arevsepareted in several branch, make sure you choose the correct branch!**
+**My project are separeted in several branch, make sure you choose the correct branch!**
 
 ---
 
