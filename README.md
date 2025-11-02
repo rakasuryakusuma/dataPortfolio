@@ -58,23 +58,24 @@ Applying a log transformation:
   import streamlit as st
   import joblib
 
-```python
-  import streamlit as st
-import joblib
-import numpy as np
-
-# Load model
-model = joblib.load("fraud_model.pkl")
-
-st.title("Fraud Detection App")
-
-amount = st.number_input("Transaction Amount", min_value=0.0)
-amount_log = np.log1p(amount)
-
-if st.button("Predict"):
-    prediction = model.predict([[amount_log]])
-    st.write("Fraudulent" if prediction[0] == 1 else "Non-Fraudulent")
-```
+- Deploy the app locally and use the model
+  ```python
+    import streamlit as st
+  import joblib
+  import numpy as np
+  
+  # Load model
+  model = joblib.load("fraud_model.pkl")
+  
+  st.title("Fraud Detection App")
+  
+  amount = st.number_input("Transaction Amount", min_value=0.0)
+  amount_log = np.log1p(amount)
+  
+  if st.button("Predict"):
+      prediction = model.predict([[amount_log]])
+      st.write("Fraudulent" if prediction[0] == 1 else "Non-Fraudulent")
+  ```
 And then run the app locally
 ```cmd
 streamlit run fraud_detect.py
