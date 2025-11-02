@@ -14,7 +14,7 @@ The main purpose of this repository is to showcase my ability to process data, b
 
 ---
 
-## 🧩 Overview
+## Overview
 
 This repository includes various projects related to:
 
@@ -31,7 +31,7 @@ Each project is organized in a separate folder that contains:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 | Category                     | Technology                                 |
 | ---------------------------- | ------------------------------------------ |
 | Programming Languages        | Python, SQL                                |
@@ -48,7 +48,7 @@ git clone https://github.com/username/dataPortfolio.git
 cd dataPortfolio
 ```
 
-## 💬 Contact
+## Contact
 If you'd like to discuss, collaborate, or provide feedback:
 
 📧 Email: nama@email.com
