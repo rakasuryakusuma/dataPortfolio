@@ -10,7 +10,6 @@ Tujuan utama repositori ini adalah untuk menampilkan kemampuan saya dalam mengol
 - [Deskripsi Umum](#deskripsi-umum)
 - [Struktur Proyek](#struktur-proyek)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [Contoh Proyek](#contoh-proyek)
 - [Cara Menjalankan](#cara-menjalankan)
 - [Kontak](#kontak)
 - [Lisensi](#lisensi)
@@ -54,12 +53,14 @@ dataPortfolio/
 
 ---
 
-- 🧰 Teknologi yang Digunakan
-| Kategori                   | Teknologi                    |
-| -------------------------- | ---------------------------- |
-| Bahasa Pemrograman         | Python, SQL                  |
-| Analisis & Manipulasi Data | Pandas, NumPy                |
-| Visualisasi                | Matplotlib, Seaborn, Plotly  |
-| Machine Learning           | Scikit-Learn, XGBoost, Logistic Regression        |
-| Dashboard & Reporting      | Streamlit, Power BI, Tableau |
-| Dokumentasi                | Markdown, Jupyter Notebook   |
+## 🧰 Teknologi yang Digunakan
+
+| Kategori | Teknologi |
+|-----------|------------|
+| Bahasa Pemrograman | Python, SQL |
+| Analisis & Manipulasi Data | Pandas, NumPy |
+| Visualisasi | Matplotlib, Seaborn, Plotly |
+| Machine Learning | Scikit-Learn, XGBoost, Logistic Regression |
+| Dashboard & Reporting | Streamlit, Power BI, Tableau |
+| Dokumentasi | Markdown, Jupyter Notebook |
+
