@@ -39,7 +39,7 @@ Applying a log transformation:
 1. **Data Cleaning** → filter transactions, remove duplicates, handle missing values.  
 2. **EDA** → boxplots, histograms, correlation analysis.  
 3. **Feature Engineering** → log transformation (`np.log1p`) on the `Amount` column.  
-4. **Modeling** → train classification models (e.g., Logistic Regression, Random Forest, XGBoost).  
+4. **Modeling** → train classification models with Logistic Regression.  
 5. **Evaluation** → assess performance with Precision, Recall, F1-score, and ROC-AUC.  
 6. **Deployment** → deploy the trained model with Streamlit for interactive use.
 
