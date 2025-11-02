@@ -51,7 +51,7 @@ cd dataPortfolio
 ## Contact
 If you'd like to discuss, collaborate, or provide feedback:
 
-📧 Email: nama@email.com
+📧 Email: drakasuryaksm@email.com
 
 💼 LinkedIn: linkedin.com/in/raka-surya
 
