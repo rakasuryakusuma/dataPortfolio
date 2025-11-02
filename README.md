@@ -8,11 +8,9 @@ The main purpose of this repository is to showcase my ability to process data, b
 ## 🧭 Table of Contents
 
 - [Overview](#overview)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [Contact](#contact)
-- [License](#license)
 
 ---
 
@@ -32,24 +30,6 @@ Each project is organized in a separate folder that contains:
 - Documentation and analysis report
 
 ---
-
-## 📁 Project Structure
-
-```bash
-dataPortfolio/
-├── README.md
-├── datasets/
-│   └── (contains raw data or data source links)
-├── projects/
-│   ├── project_1_name/
-│   │   ├── notebook.ipynb
-│   │   ├── report.md
-│   │   └── visualization.png
-│   ├── project_2_name/
-│   │   └── ...
-└── utils/
-    └── helper_functions.py
-```
 
 ## 🧰 Technologies Used
 | Category                     | Technology                                 |
