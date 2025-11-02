@@ -1,45 +1,45 @@
 # 📊 dataPortfolio
 
-Selamat datang di **dataPortfolio** — repositori yang berisi kumpulan proyek analisis data, visualisasi, dan machine learning yang saya kerjakan sebagai bagian dari perjalanan saya di dunia data.  
-Tujuan utama repositori ini adalah untuk menampilkan kemampuan saya dalam mengolah data, membangun model prediktif, serta menyajikan insight yang bernilai bisnis melalui analisis yang terstruktur.
+Welcome to **dataPortfolio** — a repository containing a collection of data analysis, visualization, and machine learning projects that I’ve built as part of my journey in the data field.  
+The main purpose of this repository is to showcase my ability to process data, build predictive models, and deliver business insights through structured analysis.
 
 ---
 
-## 🧭 Daftar Isi
+## 🧭 Table of Contents
 
-- [Deskripsi Umum](#deskripsi-umum)
-- [Struktur Proyek](#struktur-proyek)
-- [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [Cara Menjalankan](#cara-menjalankan)
-- [Kontak](#kontak)
-- [Lisensi](#lisensi)
-
----
-
-## 🧩 Deskripsi Umum
-
-Repositori ini berisi berbagai proyek seputar:
-
-- Analisis data eksploratif (EDA)
-- Pembersihan dan transformasi data
-- Visualisasi data interaktif
-- Machine learning (supervised dan unsupervised)
-- Dashboard analitik (Streamlit / Power BI / Tableau)
-
-Setiap proyek disusun secara mandiri di dalam folder terpisah yang berisi:
-- Notebook analisis (`.ipynb`)
-- Dataset (atau tautan ke sumber data)
-- Dokumentasi dan laporan hasil analisis
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [How to Run](#how-to-run)
+- [Contact](#contact)
+- [License](#license)
 
 ---
 
-## 📁 Struktur Proyek
+## 🧩 Overview
+
+This repository includes various projects related to:
+
+- Exploratory Data Analysis (EDA)
+- Data cleaning and transformation
+- Interactive data visualization
+- Machine learning (supervised and unsupervised)
+- Analytical dashboards (Streamlit / Power BI / Tableau)
+
+Each project is organized in a separate folder that contains:
+- Analysis notebook (`.ipynb`)
+- Dataset (or link to data source)
+- Documentation and analysis report
+
+---
+
+## 📁 Project Structure
 
 ```bash
 dataPortfolio/
 ├── README.md
 ├── datasets/
-│   └── (berisi data mentah atau link sumber)
+│   └── (contains raw data or data source links)
 ├── projects/
 │   ├── project_1_name/
 │   │   ├── notebook.ipynb
@@ -51,16 +51,28 @@ dataPortfolio/
     └── helper_functions.py
 ```
 
----
+## 🧰 Technologies Used
+| Category                     | Technology                                 |
+| ---------------------------- | ------------------------------------------ |
+| Programming Languages        | Python, SQL                                |
+| Data Analysis & Manipulation | Pandas, NumPy                              |
+| Visualization                | Matplotlib, Seaborn, Plotly                |
+| Machine Learning             | Scikit-Learn, XGBoost, Logistic Regression |
+| Dashboard & Reporting        | Streamlit, Power BI, Tableau               |
+| Documentation                | Markdown, Jupyter Notebook                 |
 
-## 🧰 Teknologi yang Digunakan
+## How to Run
+1. Clone the repository
+```bash
+git clone https://github.com/username/dataPortfolio.git
+cd dataPortfolio
+```
 
-| Kategori | Teknologi |
-|-----------|------------|
-| Bahasa Pemrograman | Python, SQL |
-| Analisis & Manipulasi Data | Pandas, NumPy |
-| Visualisasi | Matplotlib, Seaborn, Plotly |
-| Machine Learning | Scikit-Learn, XGBoost, Logistic Regression |
-| Dashboard & Reporting | Streamlit, Power BI, Tableau |
-| Dokumentasi | Markdown, Jupyter Notebook |
+## 💬 Contact
+If you'd like to discuss, collaborate, or provide feedback:
 
+📧 Email: nama@email.com
+
+💼 LinkedIn: linkedin.com/in/raka-surya
+
+🐙 GitHub: github.com/rakasuryakusuma
