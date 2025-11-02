@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Fraud Detection Project
 
 ## 📌 Overview
-This project focuses on analyzing financial transaction data to detect fraudulent activities. The dataset contains transaction records labeled as **fraudulent (1)** and **non-fraudulent (0)**.  
+This project focuses on analyzing financial transaction data to detect fraudulent activities. The dataset contains transaction records labeled as **isFraud (1)** and **isFlaggedFraud (0)**.  
 The goal is to explore transaction patterns, understand differences between fraud and non-fraud cases, and prepare the data for machine learning models.
 
 ---
